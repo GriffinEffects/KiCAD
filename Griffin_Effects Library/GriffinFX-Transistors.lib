@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 2SK30A
+#
+DEF 2SK30A Q 0 40 Y Y 1 L N
+F0 "Q" -600 195 59 H V L BNN
+F1 "2SK30A" -600 100 59 H V L BNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 -100 125 51 0 1 0 D Normal 0 L B
+T 0 -375 -75 51 0 1 0 G Normal 0 L B
+T 0 -100 -75 51 0 1 0 S Normal 0 L B
+P 2 1 0 0 -300 25 -250 0 N
+P 2 1 0 0 -250 0 -300 -25 N
+P 2 1 0 0 -200 -50 -200 250 N
+X S 1 0 0 200 L 0 0 1 0 P
+X G 2 -400 0 200 R 0 0 1 0 P
+X D 3 0 200 200 L 0 0 1 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
