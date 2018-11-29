@@ -1,0 +1,6 @@
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.3 01-09-2016 :07:46:32 LOG **********#
+Missing Prefix Part =''				14MMCLEARSHAFT					Alpha 14mm Clear Shaft		M
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.3 01-09-2016 :07:46:32 LOG **********#
+

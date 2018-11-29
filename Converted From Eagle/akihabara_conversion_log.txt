@@ -1,0 +1,8 @@
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.3 01-09-2016 :07:44:58 LOG **********#
+Missing Prefix Part =''				ALPS103					akihabara		M
+Missing Prefix Part =''				ALPS105					akihabara		M
+Missing Prefix Part =''				ALPS205					akihabara		M
+Missing Prefix Part =''				ALPS403					akihabara		M
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.3 01-09-2016 :07:44:58 LOG **********#
+

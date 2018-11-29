@@ -1,0 +1,7 @@
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.3 01-09-2016 :07:48:16 LOG **********#
+Missing Prefix Part =''				RK097-DUAL-ELEMENT					alps_japan_potentiometers		M
+Missing Prefix Part =''				RK097-SINGLE-ELEMENT					alps_japan_potentiometers		M
+Missing Prefix Part =''				RK097-DUAL-ELEMENT-W/SWITCH					alps_japan_potentiometers		M
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.3 01-09-2016 :07:48:16 LOG **********#
+
